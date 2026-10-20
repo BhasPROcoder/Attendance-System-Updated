@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Personal data generated or supplied locally
+Students/*
+!Students/README.md
+Logs/*
+!Logs/.gitkeep
+face_cache.pkl
+*.csv
+*.pkl
+
